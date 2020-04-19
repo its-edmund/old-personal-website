@@ -78,10 +78,9 @@ a:hover::after {
 h1 {
 	font-size: 80px;
 	font-weight: 800;
-	margin-bottom: 0;
 }
 
-#intro h1 {
+#queue1 {
 	/*opacity: 0;*/
 	-webkit-animation: 3s ease 0s normal backwards 1 fadein; /* Safari, Chrome and Opera > 12.1 */
 	-moz-animation: 3s ease 0s normal backwards 1 fadein; /* Firefox < 16 */
@@ -95,7 +94,7 @@ h3 {
 	font-weight: 700;
 }
 
-#name h3 {
+#queue2 {
 	/* opacity: 0; */
 	-webkit-animation: 3s ease 1s normal backwards 1 fadein; /* Safari, Chrome and Opera > 12.1 */
 	-moz-animation: 3s ease 1s normal backwards 1 fadein; /* Firefox < 16 */
@@ -109,7 +108,7 @@ p {
 	font-weight: 300;
 }
 
-#body p {
+#queue3 {
 	/* opacity: 0; */
 	-webkit-animation: 3s ease 2s normal backwards 1 fadein; /* Safari, Chrome and Opera > 12.1 */
 	-moz-animation: 3s ease 2s normal backwards 1 fadein; /* Firefox < 16 */
@@ -118,10 +117,14 @@ p {
 	animation: 3s ease 2s normal backwards 1 fadein;
 }
 
-#copyright p {
-	font-size: 10px;
+#copyright {
+    font-size: 10px;
 	color: #555;
-	/* opacity: 0; */
+}
+
+#fade {
+    /* opacity: 0; */
+    
 	-webkit-animation: 3s ease 3s normal backwards 1 fadein; /* Safari, Chrome and Opera > 12.1 */
 	-moz-animation: 3s ease 3s normal backwards 1 fadein; /* Firefox < 16 */
 	-ms-animation: 3s ease 3s normal backwards 1 fadein; /* Internet Explorer */
