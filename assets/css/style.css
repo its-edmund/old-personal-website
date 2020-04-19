@@ -1,7 +1,9 @@
+@import "../../nordsrc/nord.csss";
+
 body {
-	font-family: "Manrope", sans-serif;
-	background-color: #111111;
-	color: #fffae6;
+    font-family: "Manrope", sans-serif;
+    background-color: #121212;
+	color: #fff;
 	padding-top: 3rem;
 	padding-left: 7rem;
 	/* text-align: justify; */
