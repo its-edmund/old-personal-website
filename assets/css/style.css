@@ -125,11 +125,11 @@ p {
 #fade {
     /* opacity: 0; */
     
-	-webkit-animation: 3s ease 3s normal backwards 1 fadein; /* Safari, Chrome and Opera > 12.1 */
-	-moz-animation: 3s ease 3s normal backwards 1 fadein; /* Firefox < 16 */
-	-ms-animation: 3s ease 3s normal backwards 1 fadein; /* Internet Explorer */
-	-o-animation: 3s ease 3s normal backwards 1 fadein; /* Opera < 12.1 */
-	animation: 3s ease 3s normal backwards 1 fadein;
+	-webkit-animation: 3s ease var(--time) normal backwards 1 fadein; /* Safari, Chrome and Opera > 12.1 */
+	-moz-animation: 3s ease var(--time) normal backwards 1 fadein; /* Firefox < 16 */
+	-ms-animation: 3s ease var(--time) normal backwards 1 fadein; /* Internet Explorer */
+	-o-animation: 3s ease var(--time) normal backwards 1 fadein; /* Opera < 12.1 */
+	animation: 3s ease var(--time) normal backwards 1 fadein;
 }
 
 @keyframes fadein {
