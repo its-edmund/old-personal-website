@@ -1,0 +1,138 @@
+[33mcommit 205f7d7c4668f3d48ef574b6c0c4576103435a9c[m[33m ([m[1;36mHEAD -> [m[1;32mtest-html-develop[m[33m)[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sun Apr 19 14:56:03 2020 -0700
+
+    fix: font-weight
+
+[33mcommit 69f14f38789c821195a1ab3447b34e5ccadc79b1[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sun Apr 19 14:41:40 2020 -0700
+
+    Switch fonts to Open Sans
+
+[33mcommit 9292cb852360c53556d6598f6fc1b910dc2a8c17[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sun Apr 19 13:00:08 2020 -0700
+
+    Stylesheet Cleanup
+
+[33mcommit db701a20339649a13821046c4780eb5b850eeb02[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sun Apr 19 12:54:26 2020 -0700
+
+    Fade System Fixed
+
+[33mcommit aa3f8f57b4eeb7eb0dc15e6dfaf468bcfb053494[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sun Apr 19 12:51:05 2020 -0700
+
+    Test page bootstrapped
+
+[33mcommit fc7914e14ab287042769b1b2295dc835e1e217eb[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sun Apr 19 12:22:01 2020 -0700
+
+    Bootstrap implemented
+
+[33mcommit 6754c9c864277d2335f5e1323423eaa4f556ef7e[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 18:42:36 2020 -0700
+
+    Hydro
+
+[33mcommit 9ce18be585e34b5917315feecd36730edce09b59[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 18:18:58 2020 -0700
+
+    Jokes
+
+[33mcommit 0a456ccc66cf90d69d308c205b2b716b1fc8c608[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 17:32:28 2020 -0700
+
+    Added test page and modified color palette
+
+[33mcommit 865b9ab89501d2c58604f8a1c16685dbdc7e0e9e[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 15:59:49 2020 -0700
+
+    Highlight changes
+
+[33mcommit c8260953467cb871e6edfd74563e6f37cc7748a2[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 15:34:16 2020 -0700
+
+    Fix Test
+
+[33mcommit 488e019b60fe98adcc0f9eb5da16d96b6c1b5985[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 15:09:15 2020 -0700
+
+    Another Test
+
+[33mcommit 2d0a940bb507fda20145f6c7292b943a8e06d516[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 15:00:10 2020 -0700
+
+    Test
+
+[33mcommit 4ad387aa6cd37ce697d6af6d055918234911dce7[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 14:59:09 2020 -0700
+
+    Fix CSS Directory
+
+[33mcommit 6988a2fea8274d2e23f9cc04644859fd44da7001[m
+Merge: a80ab4c 274091d
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 14:55:24 2020 -0700
+
+    Merge branch 'master' of https://github.com/mxinburritos/live-website
+
+[33mcommit a80ab4c0df6e826871463c8d7403fc23cc3e37aa[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 14:54:50 2020 -0700
+
+    Relocate CSS
+
+[33mcommit 726c09ff36b5242fc4c88e00bd39191ff34ccf72[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 14:53:35 2020 -0700
+
+    Fixed CSS
+
+[33mcommit 274091d61168a53d4edc27d9e751706ced560d1a[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 14:37:03 2020 -0700
+
+    Create CNAME
+
+[33mcommit f96d96ded9a8d6d4a4f98884bb6fc01e1bd81958[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 14:35:00 2020 -0700
+
+    Delete CNAME
+
+[33mcommit 0be7f1b52319673ad7bebb0b17f21be7ecce4141[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 14:29:48 2020 -0700
+
+    Create CNAME
+
+[33mcommit 5d420d238807eefb0c3530adb0d0c0de2a157466[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 12:50:39 2020 -0700
+
+    Revert change
+
+[33mcommit 32eb00aa0a20fdb511bfd68a7ed1709da6891c1a[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 12:44:24 2020 -0700
+
+    Easter Egg added
+
+[33mcommit 77940e10856baac1f5b0f0084c584f3718d22040[m
+Author: mxinburritos <mxinburritos@gmail.com>
+Date:   Sat Apr 18 12:23:10 2020 -0700
+
+    Initial Commit
